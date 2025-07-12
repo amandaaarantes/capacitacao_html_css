@@ -35,7 +35,7 @@ h1 {
     font-size: 40px;
     font-weight: normal;
     line-height: 140%;
-    color: #291b1a;
+    color: #573A37;
     margin-top: 0;
     margin-bottom: 10px;
 }
@@ -58,6 +58,7 @@ p {
 }
 
 li {
+    color: #573A37;
     padding-left: 20px;
     margin-bottom: 5px;
 }
